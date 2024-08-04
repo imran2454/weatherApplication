@@ -27,7 +27,8 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 
 1. Clone the repository:
-2. 
+2. [https://imran2454.github.io/weatherApplication/](url)
+ 
 
 ###Usage
 
